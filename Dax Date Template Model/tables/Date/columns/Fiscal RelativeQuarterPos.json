@@ -1,0 +1,25 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Fiscal RelativeQuarterPos",
+  "dataType": "double",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Fiscal RelativeQuarterPos]",
+  "lineageTag": "88006ad8-5969-4a27-bf6a-aeaaf0797f12",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    }
+  ]
+}

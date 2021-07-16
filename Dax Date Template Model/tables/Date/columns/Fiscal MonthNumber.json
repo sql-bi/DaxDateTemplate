@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Fiscal MonthNumber",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Fiscal MonthNumber]",
+  "formatString": "0",
+  "lineageTag": "3f557d30-941d-4fea-a5fa-220d2187bc94",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"NumberWhole\" Accuracy=\"0\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Int64#####not a type"
+    }
+  ]
+}

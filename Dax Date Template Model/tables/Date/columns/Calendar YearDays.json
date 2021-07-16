@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Calendar YearDays",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Calendar YearDays]",
+  "formatString": "0",
+  "lineageTag": "45f20f3f-688f-4663-a14b-938f840e10e9",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"NumberWhole\" Accuracy=\"0\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Int64#####not a type"
+    }
+  ]
+}

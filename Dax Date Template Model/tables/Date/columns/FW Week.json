@@ -1,0 +1,25 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "FW Week",
+  "dataType": "string",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[FW Week]",
+  "sortByColumn": "FW WeekNumber",
+  "lineageTag": "397c1199-a8d5-45e9-aa77-30824841d4c2",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    }
+  ]
+}

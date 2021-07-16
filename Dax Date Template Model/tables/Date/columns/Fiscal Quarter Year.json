@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Fiscal Quarter Year",
+  "dataType": "string",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Fiscal Quarter Year]",
+  "sortByColumn": "Fiscal YearQuarterNumber",
+  "lineageTag": "e6b3f9e4-f92b-48b2-a8d2-d000e78f0bfa",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    }
+  ]
+}

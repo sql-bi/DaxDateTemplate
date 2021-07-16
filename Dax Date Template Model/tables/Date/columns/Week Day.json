@@ -1,0 +1,25 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Week Day",
+  "dataType": "string",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Week Day]",
+  "sortByColumn": "WeekDayNumber",
+  "lineageTag": "b7142767-3b27-4e77-9e0b-c13091467130",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    }
+  ]
+}

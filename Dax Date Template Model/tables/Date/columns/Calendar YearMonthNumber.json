@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Calendar YearMonthNumber",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Calendar YearMonthNumber]",
+  "formatString": "0",
+  "lineageTag": "ce4dc6cd-e1b2-4485-919f-d4746e992d9c",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"NumberWhole\" Accuracy=\"0\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Int64#####not a type"
+    }
+  ]
+}

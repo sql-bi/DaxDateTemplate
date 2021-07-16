@@ -1,0 +1,25 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Fiscal RelativeWeekPos",
+  "dataType": "double",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Fiscal RelativeWeekPos]",
+  "lineageTag": "817ba951-9b3b-415a-8522-8dddf6bf4996",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    }
+  ]
+}

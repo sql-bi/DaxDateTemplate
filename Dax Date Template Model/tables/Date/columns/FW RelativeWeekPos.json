@@ -1,0 +1,25 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "FW RelativeWeekPos",
+  "dataType": "double",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[FW RelativeWeekPos]",
+  "lineageTag": "06fd2f99-5750-4813-95a0-b1a727bafb38",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    }
+  ]
+}

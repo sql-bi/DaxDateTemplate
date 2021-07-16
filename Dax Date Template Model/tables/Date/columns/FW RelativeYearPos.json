@@ -1,0 +1,25 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "FW RelativeYearPos",
+  "dataType": "double",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[FW RelativeYearPos]",
+  "lineageTag": "69cc20c5-0c7a-4588-b2f1-36ee530f561f",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    }
+  ]
+}

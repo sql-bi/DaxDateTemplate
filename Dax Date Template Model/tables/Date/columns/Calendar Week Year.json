@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Calendar Week Year",
+  "dataType": "string",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Calendar Week Year]",
+  "sortByColumn": "Calendar YearWeekNumber",
+  "lineageTag": "5a6cd710-0007-4d85-bbd5-ce1005ae79fe",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    }
+  ]
+}

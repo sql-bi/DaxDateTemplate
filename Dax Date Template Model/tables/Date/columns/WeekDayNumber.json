@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "WeekDayNumber",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[WeekDayNumber]",
+  "formatString": "0",
+  "lineageTag": "1fbc43e4-5f4c-4d71-8790-6fd99a72d2a6",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"NumberWhole\" Accuracy=\"0\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Int64#####not a type"
+    }
+  ]
+}

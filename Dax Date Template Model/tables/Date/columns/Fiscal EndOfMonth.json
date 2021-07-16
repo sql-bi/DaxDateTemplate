@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Fiscal EndOfMonth",
+  "dataType": "dateTime",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Fiscal EndOfMonth]",
+  "formatString": "m/d/yyyy",
+  "lineageTag": "52d15109-a39c-4c42-a4b4-734b7115618f",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1033\" Group=\"ShortDate\" FormatString=\"M/d/yyyy\" /></DateTimes></Format>"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "DateTime#####not a type"
+    }
+  ]
+}

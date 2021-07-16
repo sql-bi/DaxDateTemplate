@@ -1,0 +1,25 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "FW PeriodNumber",
+  "dataType": "double",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[FW PeriodNumber]",
+  "lineageTag": "e652d8a1-13da-4d02-8207-01df6df3116d",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    }
+  ]
+}

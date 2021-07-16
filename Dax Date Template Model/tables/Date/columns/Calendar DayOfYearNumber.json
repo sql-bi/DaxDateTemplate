@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Calendar DayOfYearNumber",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Calendar DayOfYearNumber]",
+  "formatString": "0",
+  "lineageTag": "915c2351-8e5b-48bb-8178-486957753e15",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"NumberWhole\" Accuracy=\"0\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Int64#####not a type"
+    }
+  ]
+}

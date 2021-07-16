@@ -1,0 +1,18 @@
+{
+  "name": "Calendar Weeks",
+  "lineageTag": "f7a6a5ad-986d-4b8e-b059-ce0a44a4d705",
+  "levels": [
+    {
+      "name": "Year",
+      "ordinal": 0,
+      "column": "Calendar Year",
+      "lineageTag": "0f3b3c61-030c-4ce4-ae5f-e8257c650912"
+    },
+    {
+      "name": "Week",
+      "ordinal": 1,
+      "column": "Calendar Week Year",
+      "lineageTag": "ff198c21-c134-4572-8816-62171e7ca711"
+    }
+  ]
+}

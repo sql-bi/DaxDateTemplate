@@ -1,0 +1,17 @@
+{
+  "name": "Period",
+  "expression": [
+    "",
+    "VAR FirstDay = MIN ( 'Date'[Date] )",
+    "VAR LastDay = MAX ( 'Date'[Date] )",
+    "RETURN ",
+    "    FORMAT ( FirstDay, \"dd MMM yy\" ) & \" - \" & FORMAT ( LastDay, \"dd MMM yy\" )  "
+  ],
+  "lineageTag": "ff578860-8aaf-4a4a-9675-7963a5775a03",
+  "annotations": [
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    }
+  ]
+}

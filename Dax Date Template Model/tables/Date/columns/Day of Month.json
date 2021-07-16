@@ -1,0 +1,25 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Day of Month",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Day of Month]",
+  "formatString": "0",
+  "lineageTag": "d62e44df-3d8d-4039-b7ef-a191c8ca58b2",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"NumberWhole\" Accuracy=\"0\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Int64#####not a type"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Fiscal DatePreviousMonth",
+  "dataType": "dateTime",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Fiscal DatePreviousMonth]",
+  "formatString": "m/d/yyyy",
+  "lineageTag": "b8c9a8d1-493f-49c3-b97c-c8938f95a9dc",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1033\" Group=\"ShortDate\" FormatString=\"M/d/yyyy\" /></DateTimes></Format>"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "DateTime#####not a type"
+    }
+  ]
+}

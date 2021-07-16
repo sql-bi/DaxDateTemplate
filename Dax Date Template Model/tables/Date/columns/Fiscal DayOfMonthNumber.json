@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Fiscal DayOfMonthNumber",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Fiscal DayOfMonthNumber]",
+  "formatString": "0",
+  "lineageTag": "215e6ba6-2f15-47b3-98ec-065219234f44",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"NumberWhole\" Accuracy=\"0\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Int64#####not a type"
+    }
+  ]
+}

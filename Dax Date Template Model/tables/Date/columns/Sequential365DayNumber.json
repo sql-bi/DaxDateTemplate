@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Sequential365DayNumber",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Sequential365DayNumber]",
+  "formatString": "0",
+  "lineageTag": "2d57871b-c1c0-4dff-b677-5f6facc77ae7",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"NumberWhole\" Accuracy=\"0\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Int64#####not a type"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Calendar RelativeYearPos",
+  "dataType": "double",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Calendar RelativeYearPos]",
+  "lineageTag": "eccf2c7f-e090-4ffe-a676-360551922a1c",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    }
+  ]
+}

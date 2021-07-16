@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Calendar EndOfYear",
+  "dataType": "dateTime",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Calendar EndOfYear]",
+  "formatString": "m/d/yyyy",
+  "lineageTag": "3226ddd6-91e1-428f-b9d2-d2bdf6702dde",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1033\" Group=\"ShortDate\" FormatString=\"M/d/yyyy\" /></DateTimes></Format>"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "DateTime#####not a type"
+    }
+  ]
+}

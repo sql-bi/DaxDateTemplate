@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "IsWorkingDay",
+  "dataType": "boolean",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[IsWorkingDay]",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "lineageTag": "9dc11242-a7ea-4edd-ab07-2b1e810a93e8",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Boolean\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Boolean#####not a type"
+    }
+  ]
+}

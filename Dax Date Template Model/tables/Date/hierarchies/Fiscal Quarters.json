@@ -1,0 +1,24 @@
+{
+  "name": "Fiscal Quarters",
+  "lineageTag": "8c847d79-cd02-46da-b3ec-5c89aa104b91",
+  "levels": [
+    {
+      "name": "Year",
+      "ordinal": 0,
+      "column": "Fiscal Year",
+      "lineageTag": "865dbca0-aee9-4310-8e8b-9e8c5fff4296"
+    },
+    {
+      "name": "Quarter",
+      "ordinal": 1,
+      "column": "Fiscal Quarter",
+      "lineageTag": "43e0c658-151e-47af-a4de-3573da469fb0"
+    },
+    {
+      "name": "Month",
+      "ordinal": 2,
+      "column": "Fiscal Month",
+      "lineageTag": "7869ea4d-d4cd-4e61-9749-b5d252cf29f2"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Fiscal RelativeMonthPos",
+  "dataType": "double",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Fiscal RelativeMonthPos]",
+  "lineageTag": "df3db872-e0d4-4ed3-985e-0bd541e93820",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    }
+  ]
+}

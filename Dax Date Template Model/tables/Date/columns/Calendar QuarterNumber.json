@@ -1,0 +1,25 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Calendar QuarterNumber",
+  "dataType": "double",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Calendar QuarterNumber]",
+  "lineageTag": "ed6d4ad7-21aa-4038-bbd5-41d59337c3eb",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    }
+  ]
+}

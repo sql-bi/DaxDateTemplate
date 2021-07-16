@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "FW DayOfMonthNumber",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[FW DayOfMonthNumber]",
+  "formatString": "0",
+  "lineageTag": "3b614d4f-f2f1-4543-ae95-f23adaae3a87",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"NumberWhole\" Accuracy=\"0\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Int64#####not a type"
+    }
+  ]
+}

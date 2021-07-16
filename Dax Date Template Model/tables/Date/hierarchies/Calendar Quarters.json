@@ -1,0 +1,24 @@
+{
+  "name": "Calendar Quarters",
+  "lineageTag": "0518b37e-d586-409c-bc07-f7126008a46b",
+  "levels": [
+    {
+      "name": "Year",
+      "ordinal": 0,
+      "column": "Calendar Year",
+      "lineageTag": "4c07ff82-1d41-432d-aa3a-c9c7b76d6861"
+    },
+    {
+      "name": "Quarter",
+      "ordinal": 1,
+      "column": "Calendar Quarter Year",
+      "lineageTag": "d5973cdc-173f-4eff-b312-c4270844be6b"
+    },
+    {
+      "name": "Month",
+      "ordinal": 2,
+      "column": "Calendar Month Year",
+      "lineageTag": "a676a07d-772d-4fce-8158-4e91e582c129"
+    }
+  ]
+}

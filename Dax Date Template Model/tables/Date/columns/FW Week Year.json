@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "FW Week Year",
+  "dataType": "string",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[FW Week Year]",
+  "sortByColumn": "FW YearWeekNumber",
+  "lineageTag": "95e5b121-f525-460b-ac78-5e6435c63953",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    }
+  ]
+}

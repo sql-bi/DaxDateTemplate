@@ -1,0 +1,25 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "FW MonthNumber",
+  "dataType": "double",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[FW MonthNumber]",
+  "lineageTag": "ceeaeda1-04b2-4392-becc-d0058976c300",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    }
+  ]
+}

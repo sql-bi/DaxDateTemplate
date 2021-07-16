@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "FW WeekNumber",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[FW WeekNumber]",
+  "formatString": "0",
+  "lineageTag": "ad13aa79-6b0f-4640-9a53-fc856d4de49d",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"NumberWhole\" Accuracy=\"0\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Int64#####not a type"
+    }
+  ]
+}

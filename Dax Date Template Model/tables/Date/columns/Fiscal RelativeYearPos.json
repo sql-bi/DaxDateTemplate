@@ -1,0 +1,25 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Fiscal RelativeYearPos",
+  "dataType": "double",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Fiscal RelativeYearPos]",
+  "lineageTag": "e6560553-96f2-4159-b151-73bc14b822f5",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    }
+  ]
+}

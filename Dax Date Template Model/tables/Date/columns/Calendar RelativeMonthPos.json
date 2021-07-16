@@ -1,0 +1,25 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Calendar RelativeMonthPos",
+  "dataType": "double",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Calendar RelativeMonthPos]",
+  "lineageTag": "3daa0e37-c295-4300-8396-851039c85ee0",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    }
+  ]
+}

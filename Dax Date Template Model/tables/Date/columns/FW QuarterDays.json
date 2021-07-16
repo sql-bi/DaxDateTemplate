@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "FW QuarterDays",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[FW QuarterDays]",
+  "formatString": "0",
+  "lineageTag": "4f86e2f2-1e8d-47c3-876c-71e1a85fd658",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"NumberWhole\" Accuracy=\"0\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Int64#####not a type"
+    }
+  ]
+}

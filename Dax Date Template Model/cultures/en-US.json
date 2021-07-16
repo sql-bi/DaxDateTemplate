@@ -1,0 +1,11 @@
+{
+  "name": "en-US",
+  "linguisticMetadata": {
+    "content": {
+      "Version": "1.0.0",
+      "Language": "en-US",
+      "DynamicImprovement": "HighConfidence"
+    },
+    "contentType": "json"
+  }
+}

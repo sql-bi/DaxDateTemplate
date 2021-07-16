@@ -1,0 +1,24 @@
+{
+  "name": "FW Periods",
+  "lineageTag": "d79904a7-dff3-4915-9d9b-3cdd7064a43e",
+  "levels": [
+    {
+      "name": "Year",
+      "ordinal": 0,
+      "column": "FW Year",
+      "lineageTag": "8b6d9292-f422-4230-84d4-14b51fc3e589"
+    },
+    {
+      "name": "Period",
+      "ordinal": 1,
+      "column": "FW Period",
+      "lineageTag": "82cf16d4-080d-48fe-88f9-56b30aa111b3"
+    },
+    {
+      "name": "Week",
+      "ordinal": 2,
+      "column": "FW EndOfWeek",
+      "lineageTag": "58535de5-a586-49ae-9489-a9aa6b6a4fa1"
+    }
+  ]
+}

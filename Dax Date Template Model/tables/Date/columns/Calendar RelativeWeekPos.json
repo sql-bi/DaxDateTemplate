@@ -1,0 +1,25 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Calendar RelativeWeekPos",
+  "dataType": "double",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Calendar RelativeWeekPos]",
+  "lineageTag": "ff07ac30-fb7e-4995-a3fb-98d16d24e186",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    }
+  ]
+}

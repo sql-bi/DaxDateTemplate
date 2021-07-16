@@ -1,0 +1,25 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Calendar RelativeQuarterPos",
+  "dataType": "double",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Calendar RelativeQuarterPos]",
+  "lineageTag": "7239d359-33fe-4838-858e-ed34db9cb2b9",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    }
+  ]
+}

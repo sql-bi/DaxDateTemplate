@@ -1,0 +1,18 @@
+{
+  "name": "FW Months",
+  "lineageTag": "8104a2d2-72a8-4172-8bd1-bdb4bf32cd5c",
+  "levels": [
+    {
+      "name": "Year",
+      "ordinal": 0,
+      "column": "FW Year",
+      "lineageTag": "382058b0-4525-49e2-8759-d4c4638c568e"
+    },
+    {
+      "name": "Month",
+      "ordinal": 1,
+      "column": "FW Month",
+      "lineageTag": "659b6002-003c-4446-afcd-0766183249fb"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Date",
+  "lineageTag": "d8681722-8589-4c3a-9098-a7376f88ace0",
+  "dataCategory": "Time",
+  "annotations": [
+    {
+      "name": "PBI_Id",
+      "value": "cdc08361ff824afa953ac8cccd1ff880"
+    }
+  ]
+}

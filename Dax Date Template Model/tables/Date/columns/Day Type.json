@@ -1,0 +1,24 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Day Type",
+  "dataType": "string",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Day Type]",
+  "lineageTag": "6d0a20a6-8ac2-47ac-9a24-385fa88e599d",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    }
+  ]
+}

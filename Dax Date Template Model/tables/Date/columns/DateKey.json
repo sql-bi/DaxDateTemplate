@@ -1,0 +1,26 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "DateKey",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[DateKey]",
+  "formatString": "0",
+  "lineageTag": "cbc54afd-61a4-49c1-bd90-893ffc855cd1",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"NumberWhole\" Accuracy=\"0\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Int64#####not a type"
+    }
+  ]
+}

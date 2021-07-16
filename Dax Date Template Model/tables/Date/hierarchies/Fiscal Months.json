@@ -1,0 +1,18 @@
+{
+  "name": "Fiscal Months",
+  "lineageTag": "35b9bae7-cb8a-42d6-9e2c-3009b0bdc30a",
+  "levels": [
+    {
+      "name": "Year",
+      "ordinal": 0,
+      "column": "Fiscal Year",
+      "lineageTag": "bf52d660-4d5c-4f34-ba24-07e3cea9e45d"
+    },
+    {
+      "name": "Month",
+      "ordinal": 1,
+      "column": "Fiscal Month",
+      "lineageTag": "94171e00-546c-4326-95a9-aed3bae7fc3c"
+    }
+  ]
+}

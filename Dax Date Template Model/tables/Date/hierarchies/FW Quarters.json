@@ -1,0 +1,24 @@
+{
+  "name": "FW Quarters",
+  "lineageTag": "ff1096b1-e030-45d8-8a0d-e1b19feb2e0e",
+  "levels": [
+    {
+      "name": "Year",
+      "ordinal": 0,
+      "column": "FW Year",
+      "lineageTag": "5f231959-0180-4b81-8912-283c4afde2a7"
+    },
+    {
+      "name": "Quarter",
+      "ordinal": 1,
+      "column": "FW Quarter",
+      "lineageTag": "07b81e6d-fa42-4d73-a5e7-c2471b6768d1"
+    },
+    {
+      "name": "Month",
+      "ordinal": 2,
+      "column": "FW Month",
+      "lineageTag": "26cb4fe3-dea0-490d-9a39-be967996ef0b"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Calendar Months",
+  "lineageTag": "ed0a8d92-cd1b-4432-b2a8-b36389ebffaa",
+  "levels": [
+    {
+      "name": "Year",
+      "ordinal": 0,
+      "column": "Calendar Year",
+      "lineageTag": "c8dbd3c2-0049-4339-94b3-5cdbd177f24e"
+    },
+    {
+      "name": "Month",
+      "ordinal": 1,
+      "column": "Calendar Month Year",
+      "lineageTag": "2b631b3c-0c5c-494d-a0c3-29086bdef002"
+    }
+  ]
+}

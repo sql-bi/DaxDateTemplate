@@ -1,0 +1,18 @@
+{
+  "name": "Fiscal Weeks",
+  "lineageTag": "c37e41ca-4b10-4f53-8717-a1c1a79aaecd",
+  "levels": [
+    {
+      "name": "Year",
+      "ordinal": 0,
+      "column": "Fiscal Year",
+      "lineageTag": "9064ee94-99a8-45be-9245-e1b493f08b1b"
+    },
+    {
+      "name": "Week",
+      "ordinal": 1,
+      "column": "Fiscal Week Year",
+      "lineageTag": "eb629680-9e57-4a3f-aeaa-87a0cc182b2f"
+    }
+  ]
+}
